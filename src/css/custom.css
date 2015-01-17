@@ -1,0 +1,15 @@
+
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+img#curl:hover{
+    	background-image: url('../img/curl_hover.png') ; 
+}
+
+img#press:hover{
+    	background-image: url('../img/bench_hover.png') ; 
+}
+
+
+img#raise:hover{
+    	background-image: url('../img/raise_hover.png') ; 
+}
